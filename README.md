@@ -1,4 +1,4 @@
-# Xzot
+# Xzot Virus
 <img src="icon.ico" height="110" alt="">
 This is an undetected malware test, open it in the Virtual Machine only
 
